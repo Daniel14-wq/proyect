@@ -1,7 +1,7 @@
 
 `timescale 1ns/1ps
 
-module fifo_silicluster (
+module  tt_um_fifo_silicluster (
     input wire clk,
     input wire rst,
     input wire [3:0] data_in,
